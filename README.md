@@ -5,8 +5,8 @@ Hyderabad, India, Spring 2019.
 #### Topics covered:
 * Hashing
 * Searching
-* sorting
-* tree algorithms
-* dynamic programming
-* greedy algorithms
-* divide and conquer
+* Sorting
+* Tree algorithms
+* Dynamic programming
+* Greedy algorithms
+* Divide and conquer
